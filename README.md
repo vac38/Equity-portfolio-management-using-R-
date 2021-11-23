@@ -3,11 +3,11 @@ Task: Manage equity portfolio for 10 stocks and determine the time of investment
 
 1) On Jan 02 2018, you split the $5m into 5 $1m, and use them to buy 5 stocks from the 10 stocks and after some days  your mark to market value (MTM) is $5m if combining all stocks value and cash.The holdings of stocks and cach account is your portfolio.
 
-2)Trading strategy is "5 days rebalancing of buying low", here time period is 5 days.
+2) Trading strategy is "5 days rebalancing of buying low", here time period is 5 days.
 
 3) Run this stratergy for the time period and you will have a daily MTM.
 
-4)Next Trading strategy is "5 days rebalancing of buying high", here time period is 5 days
+4) Next Trading strategy is "5 days rebalancing of buying high", here time period is 5 days
 
 5) Plot curves to compare MTM series with "high tech index"(daily average of the 10 stocks "Close" prices)
 
@@ -19,3 +19,4 @@ Task: Manage equity portfolio for 10 stocks and determine the time of investment
 
 Additional task: Plot mark to market value for USD(Unites States Dollar) Vs JPY(Japanese Yen).
 
+Note: Check html for graphs
